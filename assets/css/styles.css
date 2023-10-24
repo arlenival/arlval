@@ -1,0 +1,20 @@
+.fondo:hover {
+  background: var(--bs-warning);
+}
+
+.fondo:hover {
+  background: var(--bs-yellow);
+}
+
+.fondo1:hover {
+  background: var(--bs-red);
+}
+
+.fondo.2 {
+  background: var(--bs-orange);
+}
+
+.fondo.2 {
+  background: var(--bs-purple);
+}
+
